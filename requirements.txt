@@ -1,4 +1,3 @@
 Flask
-requests
-gunicorn
 yt-dlp
+gunicorn
